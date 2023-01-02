@@ -14,7 +14,8 @@ ref: research
 
 * Tak-Huen Chau and [Junyan Jiang](http://www.junyanjiang.com), [Intergroup Relations and Support for Democratization: Evidence from Hong Kong](https://osf.io/preprints/socarxiv/d8sg4/)
 
-## Work in progress
+## Ongoing projects
 
-* A Model of National Identity Contestation
-* Identity Contestation and Regime Preferences
+* Compelling Good Signals
+* Identity Contestation
+* Stand Out Fit In
