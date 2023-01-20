@@ -6,7 +6,7 @@ ref: research
 
 ## Publication
 
-* Tak-Huen Chau and [Kin-Man Wan](https://www.google.com/url?q=https%3A%2F%2Fwww.kmwan.net&sa=D), [Pour (Tear) Gas on Fire? Violent Confrontations and Anti-Government Backlash](https://doi.org/10.1017/psrm.2022.50), *Political Science Research and Methods*, Forthcoming
+* Tak-Huen Chau and [Kin-Man Wan](https://www.kmwan.net), [Pour (Tear) Gas on Fire? Violent Confrontations and Anti-Government Backlash](https://doi.org/10.1017/psrm.2022.50), *Political Science Research and Methods*, Forthcoming
   * [Ungated preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3557130)
   * Coverage in [The Diplomat](https://thediplomat.com/2020/04/hong-kongs-protests-amid-covid-19-a-dying-movement-or-a-halted-war/)
 
@@ -16,6 +16,8 @@ ref: research
 
 ## Ongoing projects
 
-* Compelling Good Signals
-* Identity Contestation
-* Stand Out Fit In
+* Compelling good signals
+* Identity contestation
+* Contested identities and democracy
+* Poisoning attacks and political disinformation (with [Adam Bouyamourn](https://abouyamourn.github.io))
+* Stand out fit in
