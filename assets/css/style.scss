@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@mixin large {
+    @media screen and (min-width: #{$large-breakpoint}) {
+      @content;
+    }
+  }
+  
+  @mixin medium {
+    @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+      @content;
+    }
+  }
+  
+  @mixin small {
+    @media screen and (max-width: #{$medium-breakpoint}) {
+      @content;
+    }
+  }
+  
+  /* Custom adjustments */
+.main-content {
+    /* Adjusting max-width for large screens */
+    @media screen and (min-width: 1200px) { /* replace 1200px with the value of your $large-breakpoint */
+      max-width: 800px; /* set the max-width as you prefer */
+      margin: 0 auto;
+    }
+  
+    /* Optionally, you can add a max-width for medium screens */
+    @media screen and (min-width: 768px) and (max-width: 1199px) { /* replace with the values of your $medium-breakpoint and $large-breakpoint */
+      max-width: 800px; /* set the max-width as you prefer */
+      margin: 0 auto;
+    }
+  }
+  
