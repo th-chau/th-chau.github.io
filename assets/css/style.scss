@@ -22,19 +22,27 @@
   }
   
   /* Custom adjustments */
-.main-content {
+  .main-content {
     /* Adjusting max-width for large screens */
-    @media screen and (min-width: 1200px) { /* replace 1200px with the value of your $large-breakpoint */
-      max-width: 800px; /* set the max-width as you prefer */
+    @media screen and (min-width: 1200px) {
+      max-width: 800px;
       margin: 0 auto;
+      padding: 2rem;  /* Increased padding for large screens */
     }
   
     /* Optionally, you can add a max-width for medium screens */
-    @media screen and (min-width: 768px) and (max-width: 1199px) { /* replace with the values of your $medium-breakpoint and $large-breakpoint */
-      max-width: 800px; /* set the max-width as you prefer */
+    @media screen and (min-width: 768px) and (max-width: 1199px) {
+      max-width: 800px;
       margin: 0 auto;
+      padding: 1rem;  /* Default padding for medium screens */
+    }
+  
+    /* For small screens */
+    @media screen and (max-width: 767px) {
+      padding: 0.5rem;  /* Smaller padding for small screens */
     }
   }
+  
   
 .project-name,
 .project-tagline {
