@@ -21,4 +21,3 @@ ref: research
 ## Pre-PhD Project
 
 * Tak-Huen Chau and [Junyan Jiang](http://www.junyanjiang.com), [Intergroup Relations and Support for Democratization: Evidence from Hong Kong](https://osf.io/preprints/socarxiv/d8sg4/)
-
