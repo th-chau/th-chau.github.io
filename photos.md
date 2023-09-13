@@ -8,22 +8,22 @@ ref: photos
 
 ![Flags](/media/state_0.jpg){:width="100%"}
 
-_Changsha, China, 2018_
+_Changsha, China, 2018._
 
 ![Mao](/media/state_1.jpg){:width="100%"}
 
-_Changsha, China, 2018_
+_Changsha, China, 2018._
 
 ![Resident Alien](/media/state_2.jpg){:width="100%"}
 
-_San Francisco, California, 2018_
+_San Francisco, California, 2022._
 
 
 ## Dissent
 
 ![Leaving the ivory tower](/media/dissent_1.jpg){:width="100%"}
 
-_New Asia College Library, Chinese University of Hong Kong, 2019. Text: leaving the ivory tower_
+_New Asia College Library, Chinese University of Hong Kong, 2019. Text: leaving the ivory tower._
 
 ![Posters](/media/dissent_2.jpg){:width="100%"}
 
