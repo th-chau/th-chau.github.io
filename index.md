@@ -28,11 +28,11 @@ Prior to Berkeley, I attended public schools in Sha Tin, Hong Kong, and read for
 
 ## Ongoing projects
 
-* Who belongs to the nation?
-* Why Should Others Identify With The Nation? Cognitive Dissonance, Congruence, and Status
-* Stand out fit in
+* Aspirations and violence
 * Coordination in the Shadow of Repression (with [Mai Hassan](https://maihassan.mit.edu) and [Andrew Little](https://anthlittle.github.io))
-* Poisoning attacks and political disinformation (with [Adam Bouyamourn](https://abouyamourn.github.io))
+* Dissonance and identity
+* Selection and inference (with [Adam Bouyamourn](https://abouyamourn.github.io))
+* Who belongs to the nation?
 
 ## Pre-PhD Project
 
