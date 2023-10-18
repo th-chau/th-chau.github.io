@@ -12,11 +12,11 @@ Prior to Berkeley, I attended public schools in Sha Tin, Hong Kong, and read for
 
 # Links
 
+* [Bluesky](https://bsky.app/profile/thchau.bsky.social)
 * [CV](permalinks/cv.html)
 * [Department Profile (Political Science)](https://polisci.berkeley.edu/people/person/1648234), [Department Profile (Economics)](https://www.econ.berkeley.edu/grad/profiles/16907)
 * [Email](https://mailhide.io/e/bhOQVvCl)
 * [GitHub](https://github.com/th-chau)
-* [Mastodon](https://mastodon.world/@thchau)
 * [Twitter](https://twitter.com/TakHuenChau)
 
 # Research
