@@ -30,7 +30,7 @@ Prior to Berkeley, I attended public schools in Sha Tin, Hong Kong, and read for
 ## Ongoing projects
 
 * Aspirations and violence
-* Coordination in the Shadow of Repression (with [Mai Hassan](https://maihassan.mit.edu) and [Andrew Little](https://anthlittle.github.io))
+* [Communication and Coordination in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with [Mai Hassan](https://maihassan.mit.edu) and [Andrew Little](https://anthlittle.github.io))
 * Dissonance and identity
 * Selection and inference (with [Adam Bouyamourn](https://abouyamourn.github.io))
 * Who belongs to the nation?
