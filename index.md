@@ -11,7 +11,7 @@ Hi! My name is Tak-Huen, and I am a PhD candidate in political science (comparat
 Prior to Berkeley, I attended public schools in Sha Tin, Hong Kong, and read for a BA in Philosophy, Politics and Economics at Merton College, University of Oxford on full financial aid.
 
 # Links
-
+* [CV](permalinks/cv.html)
 * [Bluesky](https://bsky.app/profile/thchau.bsky.social)
 * [Department Profile (Political Science)](https://polisci.berkeley.edu/people/person/1648234), [Department Profile (Economics)](https://www.econ.berkeley.edu/grad/profiles/16907)
 * [Email](https://mailhide.io/e/bhOQVvCl)
